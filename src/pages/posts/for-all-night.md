@@ -5,8 +5,8 @@ pubDate: 2035-03-25
 description: '临近毕业，作为致谢的一部分，致谢我所有的未眠之夜。'
 author: 'Wenjia Chen'
 cover:
-    url: '/public/static/img/albedo-day.png'
-    square: "/public/static/img/albedo-day.png'"
+    url: 'https://www.wenjiachen.cn/static/img/albedo-day.png'
+    square: "https://www.wenjiachen.cn/static/img/albedo-day.png"
     alt: 'cover'
 tags: ["致谢"] 
 theme: 'light'
