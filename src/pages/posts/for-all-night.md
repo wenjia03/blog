@@ -21,7 +21,27 @@ meta:
 keywords: 致谢
 ---
 
-## Test
+# 致谢我所有的未眠之夜
+
+
+每一个无眠的夜里，都是我歌单里的歌陪着我，高中三年也是，大学四年也是，很感激他们，我也希望他们可以成为我毕业致谢的一部分。我将他们排成了歌单，放在这里。
+
+ 
+该歌单分为两部分：1. 梦里 2. 无眠。
+
+1. 梦里：无数个晚上陪伴我助眠的安眠曲，奢求一个美丽的梦但无法得到。这里是我用来安眠，舒心编码的曲子，每一首都是我精心挑选。
+
+
+2. 无眠：日出的前夜，永不止境的黑暗，和那绝望的无眠。这里主要是人声，每一首都有自己的意义。
+
+
+## 歌单链接
+
+1. 梦里： ![网易云音乐](https://music.163.com/playlist?id=13636584460&uct2=U2FsdGVkX1/uvNdbWPZVxo5XpI6KqSd6Z+WDMbK/6q4=)
+
+2. 无眠： ![网易云音乐](https://music.163.com/playlist?id=13636588504&uct2=U2FsdGVkX19MCzCQAN4xxWlcCLkGLpJpWKAbCwbDpK0=)
+
+
 <!-- ![HomePod 汇集了多项 Apple 创新技术、Siri 智能和智能家居功能，为用户带来前所未有的聆听体验。](https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-hero-230118_big.jpg.large_2x.jpg)
 
 加利福尼亚州，库比提诺Apple 今日宣布推出 HomePod（第二代）。这款功能强大的智能扬声器采用优美的标志性设计，为用户带来新一代声学体验。HomePod 汇集了多项 Apple 创新技术与 Siri 智能，提供先进计算音频技术，支持播放沉浸式空间音频曲目，呈现前所未有的聆听体验。HomePod 带来管理日常任务、控制智能家居的便利新方式，用户可以使用 Siri 创建智能家居自动化功能，在家中触发烟雾或一氧化碳警报时获得通知，或者查看房间的温度与湿度——以上操作不必动手就能完成。
