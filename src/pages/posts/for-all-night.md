@@ -21,6 +21,8 @@ meta:
 keywords: 致谢
 ---
 
+![2022年拍摄，那个时候这些只是为了给无暇出游的我一个慰藉](https://www.wenjiachen.cn/static/img/albedo-day.png)
+
 # 致谢我所有的未眠之夜
 
 
@@ -37,9 +39,9 @@ keywords: 致谢
 
 ## 歌单链接
 
-1. 梦里： ![网易云音乐](https://music.163.com/playlist?id=13636584460&uct2=U2FsdGVkX1/uvNdbWPZVxo5XpI6KqSd6Z+WDMbK/6q4=)
+1. 梦里： [网易云音乐](https://music.163.com/playlist?id=13636584460&uct2=U2FsdGVkX1/uvNdbWPZVxo5XpI6KqSd6Z+WDMbK/6q4=)
 
-2. 无眠： ![网易云音乐](https://music.163.com/playlist?id=13636588504&uct2=U2FsdGVkX19MCzCQAN4xxWlcCLkGLpJpWKAbCwbDpK0=)
+2. 无眠： [网易云音乐](https://music.163.com/playlist?id=13636588504&uct2=U2FsdGVkX19MCzCQAN4xxWlcCLkGLpJpWKAbCwbDpK0=)
 
 
 <!-- ![HomePod 汇集了多项 Apple 创新技术、Siri 智能和智能家居功能，为用户带来前所未有的聆听体验。](https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-hero-230118_big.jpg.large_2x.jpg)
