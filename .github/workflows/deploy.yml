@@ -38,7 +38,7 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "benchen-blog-19"
-          entrypoint: "server/entry.mjs"
-          root: "dist"
+          entrypoint: jsr:@std/http/file-server
+          root: dist
           
           
